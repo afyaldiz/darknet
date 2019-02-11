@@ -11,3 +11,6 @@ https://github.com/eric612/Caffe-YOLOv2-Windows
 
 Run caffemodel on NCS 
 https://github.com/duangenquan/YoloV2NCS﻿
+
+
+youtube https://www.youtube.com/channel/UCOfceQhj7rMl0GJJcBtdHmg
